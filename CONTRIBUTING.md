@@ -12,9 +12,9 @@ Welcome 👋 We are really happy that you're interested in contributing to Biost
   - [Final Message](#final-message)
 
 ## Overview:
-If you started with our main [ReadMe](README.md) file, you may already know that we have 3 different repositories [Biostasis-Backend](https://github.com/tomorrowbiostasis/Biostasis-Backend), [Biostasis-Frontend](https://github.com/tomorrowbiostasis/Biostasis-FrontEnd), and [Biostasis-Cloud-Infrastructure](https://github.com/tomorrowbiostasis/Biostasis-Cloud-infrastructure). The Frontend and Backend can work separately or together. **However, Both need cloud and external services to work perfectly.**
+If you started with our main [ReadMe](README.md) file, you may already know that we have 3 different repositories [Biostasis-Backend](https://github.com/tomorrowbiostasis/Biostasis-Backend), [Biostasis-Frontend](https://github.com/tomorrowbiostasis/Biostasis-FrontEnd), and [Biostasis-Cloud-Infrastructure](https://github.com/tomorrowbiostasis/Biostasis-Cloud-infrastructure). The Frontend and Backend can work separately or together. **However, both need cloud and external services to work perfectly.**
 
-So make sure to read the documentation carefully for each repository to have a clear understanding of how the application work 😊.
+So make sure to read the documentation carefully for each repository to have a clear understanding of how the application works 😊.
 
 ## Label Meanings:
 The labels that get applied to issues and PRs in our repos have specific meanings and are broken into two categories: **status** and **type**. An issue/PR should only ever have one status label, but can have multiple type labels. The following isn't a complete list, but rather a list of the labels that are more universal across all of our repos.
@@ -52,7 +52,7 @@ If you have an issue or problem, Please visit the repo's issue page. There you w
 
 - **Big issues or changes**: You can either go to our discussion page connected to the repo to mention an issue or propose a change, or you can simply open an issue and wait to receive a response. 
 
-  Opening a new discussion about your change/issue, let the community and maintainers provide support and help. Furthermore, let them get a better understanding of your proposal. 
+  Opening a new discussion about your change/issue lets the community and maintainers provide support and help. Furthermore, it lets them get a better understanding of your proposal. 
   
   You should never submit a PR for a significant issue or change without first getting approval from maintainers. we don't want your time and work to go to waste if your proposal isn't accepted.
 
@@ -60,7 +60,7 @@ If you have an issue or problem, Please visit the repo's issue page. There you w
 We have a code of conduct in place to ensure that our community is welcoming and inclusive. Please review our [code of conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ## Observation before Implementation:
-Please make sure to do a quick tour on our repository to gain a practical understanding of how everything works. Also, before creating an issue, make sure that no one previously mentioned it before you. This will help (us and you) avoid any duplicates from being made, as well as prevent more than one person working on the same thing at the same time.
+Please make sure to do a quick tour on our repository to gain a practical understanding of how everything works. Also, before creating an issue, make sure that no one previously mentioned it before you. This will help (you and us) avoid any duplicates from being made, as well as prevent more than one person working on the same thing at the same time.
 
 If your proposal already exists in an open issue or PR, but you feel there are details missing or more info to add, comment on the issue/PR to let those involved know.
 
@@ -123,4 +123,4 @@ Congrats on reaching this step 🥳
 ## Final Message:
 We appreciate every and each one of you who considered contributing to the biostasis application. 
 
-Either small or big impact, it is always meaningful to us 🥰.
+Any small or big impact is always meaningful to us 🥰.
