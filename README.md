@@ -2,7 +2,7 @@
 
 ![Biostasis_repo_header](https://i.postimg.cc/qvHhR6fH/tomorrowbiostasis-header.gif)
 
-Biostasis is a mobile application contains a pulse alert system that uses smartwatch data to detect the user's pulse and triggers an multi-stage emergency system if no pulse is detected within a specific time frame. The application is built with Typescript programming language and consists of frontend, backend and cloud repositories.
+Biostasis is a mobile application featuring a pulse alert system that uses smartwatch data to detect the user's pulse, triggering a multi-stage emergency system if no pulse is detected within a customizable time frame. The application is built with the Typescript programming language and consists of frontend, backend and cloud repositories.
 
 ## Download Android / IOS application:
 
@@ -12,7 +12,7 @@ Biostasis is a mobile application contains a pulse alert system that uses smartw
 ## Repositories:
 
  - ### [FrontEnd](https://github.com/tomorrowbiostasis/Biostasis-FrontEnd) 📱
-    The frontend repository (MobileApp) developed using the **React Native** framework, which provides an intuitive user interface and efficient performance on both Android and iOS platforms. Also, **Swift** was used to develop the application logic on IOS. The front-end utilizes **Firebase**, a powerful mobile application development platform, to manage data, cloud messaging and notifications. **Redux** is also integrated into the front-end to efficiently manage React components.
+    The frontend repository (MobileApp) developed using the **React Native** framework, which provides an intuitive user interface and efficient performance on both Android and iOS platforms. Also, **Swift** was used to develop the application logic on iOS. The front-end utilizes **Firebase**, a powerful mobile application development platform, to manage data, cloud messaging and notifications. **Redux** is also integrated into the front-end to efficiently manage React components.
 
  - ### [BackEnd](https://github.com/tomorrowbiostasis/Biostasis-Backend)  🖥️
     The backend repository utilizes a wide range of technologies to provide a reliable and scalable system. **Node.js** is used as the runtime environment, and **Redis** as a cache memory to enhance the system's performance. **MySQL** is the primary database, and uses **TypeORM** which is a modern and readable way to handle database queries and mapping objects into db records. **NestJS** a progressive Node.js framework. **Docker** enables easy deployment and management of the application.
@@ -41,4 +41,4 @@ Licensed under the [GNU General Public License v3.0](https://github.com/tomorrow
 
 Thank you for considering contributing to Biostasis ❤️. 
 
-Your support are invaluable and will help improve the application for everyone. 
+Your support is invaluable and will help improve the application for everyone. 
